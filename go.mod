@@ -1,4 +1,4 @@
-module example.com/m/v2
+module github.com/Garriden/mock-testing
 
 go 1.16
 

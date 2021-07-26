@@ -1,6 +1,6 @@
 package user
 
-import "example.com/m/v2/doer"
+import "github.com/Garriden/mock-testing/doer"
 
 type User struct {
 	Doer doer.Doer
